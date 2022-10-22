@@ -1,0 +1,18 @@
+Secretaría Distrital de Seguridad, Convivencia y Justicia
+https://analitica.scj.gov.co/analytics/saw.dll?Portal&PortalPath=/shared/OAIEE/SIEDCO/Siedco%20Datos%20Tabulados&Action=Navigate&P0=1&P1=eq&P2=Tiempo.A%C3%B1o&P3=2022
+
+Reporte capturas policia nacional de colombia
+https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Capturas-Polic-a-Nacional-de-Colombia/cukt-wz9m/data
+
+Recuperación de vehiculos policia nacional
+https://www.datos.gov.co/Seguridad-y-Defensa/Recuperaci-n-Veh-culos-Polic-a-Nacional/dhy3-732k/data
+
+Fiscalia general de la nación
+Conteo de procesos
+https://www.datos.gov.co/Justicia-y-Derecho/Conteo-de-Procesos/q6re-36rh/data
+
+Conteo de Víctimas
+https://www.datos.gov.co/Justicia-y-Derecho/Conteo-de-V-ctimas/sft7-9im5/data
+
+Conteo de indiciados
+https://www.datos.gov.co/Justicia-y-Derecho/Conteo-de-Indiciados/37ii-v4q2/data
